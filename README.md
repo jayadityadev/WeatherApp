@@ -31,6 +31,7 @@ This Weather App is a simple Python program that fetches current weather data fo
     ```
 
 2. Install the required libraries using pip:
+   
     ```bash
     pip install -r requirements.txt
     ```
@@ -44,26 +45,34 @@ This Weather App is a simple Python program that fetches current weather data fo
     ```
    
 2. Enter the name of the city when prompted.
-3. The program will display the current weather information for the specified city.
+   
+4. The program will display the current weather information for the specified city.
 
 ## Contributing
 
 Contributions are welcome! If you would like to improve this WeatherApp, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bugfix:
+   
+3. Create a new branch for your feature or bugfix:
+   
    ```bash
    git checkout -b new-feature.
    ```
-3. Make your changes and commit them:
+   
+4. Make your changes and commit them:
+   
     ```bash
     git commit -m 'Add new feature'.
    ```
-4. Push to the branch:
+    
+6. Push to the branch:
+   
     ```bash
     git push origin new-feature
    ```
-5. Create a pull request from your fork's branch to the main repository's main branch.
+    
+8. Create a pull request from your fork's branch to the main repository's main branch.
 
 ## Acknowledgement
 
