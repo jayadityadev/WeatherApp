@@ -27,7 +27,7 @@ This Weather App is a simple Python program that fetches current weather data fo
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/jayadityadev/WeatherApp.git
     ```
 
 2. Install the required libraries using pip:
