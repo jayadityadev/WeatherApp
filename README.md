@@ -46,7 +46,7 @@ This Weather App is a simple Python program that fetches current weather data fo
    
 2. Enter the name of the city when prompted.
    
-4. The program will display the current weather information for the specified city.
+3. The program will display the current weather information for the specified city.
 
 ## Contributing
 
@@ -54,25 +54,25 @@ Contributions are welcome! If you would like to improve this WeatherApp, please 
 
 1. Fork the repository.
    
-3. Create a new branch for your feature or bugfix:
+2. Create a new branch for your feature or bugfix:
    
    ```bash
    git checkout -b new-feature.
    ```
    
-4. Make your changes and commit them:
+3. Make your changes and commit them:
    
     ```bash
     git commit -m 'Add new feature'.
    ```
     
-6. Push to the branch:
+4. Push to the branch:
    
     ```bash
     git push origin new-feature
    ```
     
-8. Create a pull request from your fork's branch to the main repository's main branch.
+5. Create a pull request from your fork's branch to the main repository's main branch.
 
 ## Acknowledgement
 
